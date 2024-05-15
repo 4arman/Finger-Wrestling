@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Finger Wrestling Game for 2 players
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
